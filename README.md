@@ -1,0 +1,2 @@
+# Chessy
+Discord chess bot.
